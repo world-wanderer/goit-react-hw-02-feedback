@@ -1,0 +1,7 @@
+.notific_text {
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  padding: 40px 0 25px 0;
+  font-size: 20px;
+}
